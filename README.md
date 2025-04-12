@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 import requests
 
-BOT_TOKEN = "7808474978:AAF8jh2aqeDbux9hmVEGRZ0eCO5X_eNde_I"
+BOT_TOKEN = "7808474978:AAH_tCHROy9UA2Fs2A3rre7Q7zLoyB4oRn4"
 CHAT_ID = "6458331173"
 TEST_MESSAGE = "✅ TEST ALERTĂ: Acesta este un test de funcționare pentru botul BMSY.\nLocație fictivă: https://www.waze.com/livemap?lon=26.1&lat=44.45&zoom=14"
 
